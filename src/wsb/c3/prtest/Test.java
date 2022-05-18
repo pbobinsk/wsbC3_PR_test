@@ -11,5 +11,8 @@ public class Test {
 
         Klasa klasa1 = new Klasa("pbo");
         System.out.println(klasa1);
+
+        Klasa klasa2 = new Klasa("pboinsk");
+        System.out.println(klasa2);
     }
 }
