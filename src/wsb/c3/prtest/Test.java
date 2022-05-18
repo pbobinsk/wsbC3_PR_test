@@ -8,5 +8,8 @@ public class Test {
         Klasa klasa = new Klasa();
 
         System.out.println(klasa);
+
+        Klasa klasa1 = new Klasa("pbo");
+        System.out.println(klasa1);
     }
 }
